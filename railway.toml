@@ -1,0 +1,2 @@
+[build]
+apt_packages = ["libpq-dev", "libpq5", "libcairo2-dev"]
